@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Behnoud mostafaie
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React based apps
+- 💞️ I’m looking to collaborate on React/Next based apps
 - 📫 How to reach me via Email, mostafaie@behnoud.net
 
 <!---
