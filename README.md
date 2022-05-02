@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Behnoud mostafaie
-- 👀 I’m interested in frontend development
+- 👀 I do full stack development with nextJs and Postgresql
 - 💞️ I’m looking to collaborate on React/Next based apps
 - 📫 How to reach me via Email, mostafaie@behnoud.net
 
