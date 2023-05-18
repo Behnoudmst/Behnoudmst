@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behnoud mostafaie
-- 👀 I do full stack development with nextJs and prisma/Postgresql
-- 💞️ I’m looking to collaborate on React/Next based apps
+- 👀 I have 7 years of experience in web design (mostly wordpress/elementor) and digital marketting, I started my development journey since 2020. my Favorite stack is React(NextJs) + NestJs and Mongo db. 
+- 💞️ I’m looking to collaborate on React/Next/Nest based apps
 - 📫 How to reach me via Email, mostafaie@behnoud.net
 
 <!---
